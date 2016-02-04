@@ -1,0 +1,29 @@
+1. Algorithm
+2. Data Structures
+3. Operating System
+4. Compiler
+5. C & C++ build tools: autoconf, automake, autogen, cmake
+	Deployment: configure, make, make install, pkgbuild
+6. Linux VBird
+7. Linux from scratch
+8. The linux programming interface...
+9. Boost
+10. Qt
+11. Python
+12. Parallel Programming
+13. Java: Bean, SOAP, WebService, Restful
+14. Java build tools: Ant, Mavean
+15. Java framework: Spring, Hibernate
+16. Cloud + Distributed
+17. Big Data: Hadoop
+18. Ruby
+19. JavaScript
+20. Driver
+21. Media programming: video, audio
+22. OpenGL, WebGL
+23. Database
+24. Andorid + Apple programming
+25. Windows service, COM+, dll...
+26. Artificial intelligence + Machine learning
+27. Vim
+
