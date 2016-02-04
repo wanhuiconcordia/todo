@@ -26,4 +26,4 @@
 25. Windows service, COM+, dll...
 26. Artificial intelligence + Machine learning
 27. Vim
-
+28. Linux server + workstation, Linux Cluster
