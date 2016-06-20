@@ -47,3 +47,4 @@ c_cpp todo
 14. boost
 15. utilities
 16. template
+17. memory + smart pointer
