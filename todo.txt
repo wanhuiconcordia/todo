@@ -28,3 +28,22 @@
 26. Artificial intelligence + Machine learning
 27. Vim
 28. Linux server + workstation, Linux Cluster
+
+c_cpp todo
+----------------------------------------
+1. autotools
+2. gdb
+3. The Linux programming interface...
+4. IPC
+5. Concurrency/ thread
+6. unit test
+7. openGL
+8. openCV
+9. Mpi
+10. openMP
+11. gtk
+12. code analysis
+13. Data structures
+14. boost
+15. utilities
+16. template
